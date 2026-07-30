@@ -1,13 +1,12 @@
+- 浙江科技大学2025届优秀毕业研究生称号，2025.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 校级二等学业奖学金，2023 & 2024 & 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 第十三届全国大学生数学竞赛浙江赛区二等奖，2022.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 浙江省高等数学微积分竞赛省二等奖、浙大城市学院高等数学微积分竞赛二等奖、大学生学科竞赛二等奖学金，2021.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- 浙江省高等数学微积分竞赛省三等奖、优秀团员，2020.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 校三等奖学金、优秀学生干部，2019 & 2020.
 
