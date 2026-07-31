@@ -1,5 +1,5 @@
 
-- Y. Zhao, **C. Lin**, N. Wu, and X. Xu (2024). Apejou Integration for Enhanced YOLOv7: Achieving Efficient Plant Disease Detection. **Agriculture-Basel**. [[Paper](https://doi.org/10.3390/agriculture14060820)]
+- Y. Zhao, **C. Lin**, N. Wu, and X. Xu (2024). APEIOU Integration for Enhanced YOLOv7: Achieving Efficient Plant Disease Detection. **Agriculture-Basel**. [[Paper](https://doi.org/10.3390/agriculture14060820)]
 
 - Yun Zhao, **Chengqiang Lin**, Na Wu, Xing Xu. Plant Disease Detection Method, Product, Medium, and Device. **U.S. Patent Application** Publication US20260195889A1 (Pending), 2026.
 
